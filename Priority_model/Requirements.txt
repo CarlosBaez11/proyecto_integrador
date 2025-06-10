@@ -1,0 +1,18 @@
+catboost==1.2.8
+geopandas==1.0.1
+imbalanced-learn==0.13.0
+joblib==1.5.1
+lightgbm @ file:///tmp/lightgbm/LightGBM/dist/lightgbm-4.5.0-py3-none-linux_x86_64.whl
+matplotlib==3.10.0
+matplotlib-inline==0.1.7
+matplotlib-venn==1.1.2
+numpy==2.0.2
+pandas==2.2.2
+pandas-datareader==0.10.0
+pandas-gbq==0.29.0
+pandas-stubs==2.2.2.240909
+scikit-learn==1.6.1
+seaborn==0.13.2
+sentence-transformers==4.1.0
+sklearn-pandas==2.2.0
+xgboost==2.1.4
