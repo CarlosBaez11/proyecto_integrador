@@ -1,0 +1,17 @@
+pandas==2.2.2
+numba==0.61.2
+bertopic==0.16.0
+sentence-transformers==2.6.1
+scikit-learn==1.4.2
+umap-learn==0.5.5
+matplotlib==3.8.4
+numpy==1.26.4
+hdbscan
+streamlit
+joblib
+torch
+langdetect
+transformers[sentencepiece]
+xgboost
+kaleido
+optuna
